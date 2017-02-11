@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MySuperAwesomeGame</string>
+    <string name="title">Choose Screen for test</string>
+    <array name="triangle_array">
+        <item>FirstTriangleScreen</item>
+        <item>ColoredTriangleScreen</item>
+        <item>TexturedTriangleScreen</item>
+        <item>CannonScreen</item>
+        <item>CannonGravityScreen</item>
+    </array>
+    <array name="indexed_array">
+        <item>IndexedScreen</item>
+        <item>BlendingScreen</item>
+        <item>BobTest</item>
+        <item>CollisionScreen</item>
+        <item>Camera2DScreen</item>
+        <item>TextureAtlasScreen</item>
+        <item>SpriteBatcherScreen</item>
+    </array>
+</resources>
